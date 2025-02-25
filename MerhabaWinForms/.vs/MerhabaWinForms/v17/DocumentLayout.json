@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\repos\\MerhabaWinForms\\MerhabaWinForms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73B26403-BA62-4FD4-964B-20157D1642B2}|MerhabaWinForms\\MerhabaWinForms.csproj|d:\\repos\\merhabawinforms\\merhabawinforms\\merhabawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B26403-BA62-4FD4-964B-20157D1642B2}|MerhabaWinForms\\MerhabaWinForms.csproj|solutionrelative:merhabawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73B26403-BA62-4FD4-964B-20157D1642B2}|MerhabaWinForms\\MerhabaWinForms.csproj|d:\\repos\\merhabawinforms\\merhabawinforms\\merhabawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{73B26403-BA62-4FD4-964B-20157D1642B2}|MerhabaWinForms\\MerhabaWinForms.csproj|solutionrelative:merhabawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B26403-BA62-4FD4-964B-20157D1642B2}|MerhabaWinForms\\MerhabaWinForms.csproj|d:\\repos\\merhabawinforms\\merhabawinforms\\merhabawinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B26403-BA62-4FD4-964B-20157D1642B2}|MerhabaWinForms\\MerhabaWinForms.csproj|solutionrelative:merhabawinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\MerhabaWinForms\\MerhabaWinForms\\MerhabaWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "MerhabaWinForms\\Program.cs",
+              "ToolTip": "D:\\repos\\MerhabaWinForms\\MerhabaWinForms\\MerhabaWinForms\\Program.cs",
+              "RelativeToolTip": "MerhabaWinForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:14:07.599Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -23,6 +44,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\repos\\MerhabaWinForms\\MerhabaWinForms\\MerhabaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "MerhabaWinForms\\Form1.cs",
+              "ToolTip": "D:\\repos\\MerhabaWinForms\\MerhabaWinForms\\MerhabaWinForms\\Form1.cs",
+              "RelativeToolTip": "MerhabaWinForms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:14:16.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\repos\\MerhabaWinForms\\MerhabaWinForms\\MerhabaWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "MerhabaWinForms\\Form1.cs",
